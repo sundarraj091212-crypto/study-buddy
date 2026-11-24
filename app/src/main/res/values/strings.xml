@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Study Buddy</string>
+    <string name="brand_title">AI STUDY BUDDY</string>
+    <string name="brand_subtitle">Turn your notes into smarter revisions.</string>
+    <string name="brand_tagline">Study smarter, revise faster.</string>
+    <string name="welcome_message">Paste chapter notes or upload a PDF to instantly generate a quick summary, 5-question practice quiz, and key terms for exams.</string>
+    <string name="upload_section_title">Upload Your Study Material</string>
+    <string name="tab_paste_notes">Paste Notes</string>
+    <string name="tab_upload_pdf">Upload PDF</string>
+    <string name="notes_placeholder">Paste your chapter notes or study material here...</string>
+    <string name="clear_reset">Clear / Reset</string>
+    <string name="generate_cta">GENERATE MY REVISION PACK</string>
+    <string name="choose_pdf">Select PDF Document</string>
+    <string name="change_pdf">Replace PDF</string>
+    <string name="pdf_preview_label">Extracted Text Preview</string>
+    <string name="card_summary_title">Smart Summary</string>
+    <string name="card_quiz_title">Practice Quiz</string>
+    <string name="card_terms_title">Important Key Terms</string>
+    <string name="submit_answers">Submit Answers</string>
+    <string name="retake_quiz">Retake Quiz</string>
+    <string name="download_summary">Download Summary (.txt)</string>
+    <string name="download_full_pack">Download Complete Pack (.txt)</string>
+    <string name="share_pack">Share Pack</string>
+    <string name="generate_new_pack">Generate New Revision Pack</string>
+    <string name="cd_graduation_cap">AI Study Buddy graduation cap logo</string>
+    <string name="cd_hero_banner">Study notes transforming into quiz cards</string>
+    <string name="cd_clear_input">Clear study material</string>
+    <string name="cd_pdf_file">Uploaded PDF file</string>
+    <string name="cd_concept_icon">Study concept icon</string>
+    <string name="cd_quiz_status">Quiz answer status icon</string>
+    <string name="cd_term_icon">Key term bookmark icon</string>
+</resources>

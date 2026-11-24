@@ -1,0 +1,6 @@
+{
+  "name": "Study Buddy",
+  "description": "AI-powered study assistant that converts notes and PDFs into smart summaries, interactive 5-question quizzes, and key terms.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
